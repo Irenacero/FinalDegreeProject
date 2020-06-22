@@ -1,6 +1,6 @@
 FinalDegreeProject
 
-Here you can find a brief description of the aim of each script. Initially, the explanation of the files used to complete the probabilistic tractography paths can be found. Afterwards, the file where the statistical analysis has been computed.
+Here you can find a brief description of the aim of each script. Initially, the explanation of the files used to complete the probabilistic tractography paths can be found. Afterwards, the file where the statistical analysis has been computed.The paper is in the file named as TFG_IreneAcero.pdf.
 
 Probabilistic tractoraphy paths:
 
