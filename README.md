@@ -1,8 +1,8 @@
 FinalDegreeProject
 
-Here you can find a brief description of the aim of each script.
+Here you can find a brief description of the aim of each script. Initially, the explanation of the files used to complete the probabilistic tractography paths can be found. Afterwards, the file where the statistical analysis has been computed.
 
-##Probabilistic tractoraphy paths:
+Probabilistic tractoraphy paths:
 
 c3FA.sh --> This script takes as input the third component of the T1-weighted image segmentation, which corresponds to the cerebrospinal fluid (CSF) and normalizes it into FA space
 
@@ -42,6 +42,6 @@ T1_segmentation.m --> This script creates a function called Segmentation with Gr
 
 
 
-##Image analysis:
+Image analysis:
 
 results.R --> statistical study of the results obtained in the probabilistic tractogrpahy analysis
